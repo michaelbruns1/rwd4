@@ -1,0 +1,17 @@
+body {
+  align-content: center;
+}
+h1,
+h2 {
+  font-family: Lato;
+}
+
+div {
+  height:auto;
+  width:auto;
+  margin:auto;
+  justify-content: center;
+  padding-top:20px;
+  width: 75%;
+  border: 1px solid black;
+}
